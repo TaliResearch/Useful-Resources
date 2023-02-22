@@ -27,3 +27,8 @@ https://www.cfainstitute.org/-/media/documents/book/rf-lit-review/2020/rflr-arti
 1. Quant Fund Manager Legend, Leda Braga, speaking at WiDs conference 2019 - explaining her work and industry in a fun to watch and inspiring 30min video
 https://www.youtube.com/watch?v=9WDO8sqiy_Y
 
+
+
+**** SECTION 4 - Quant Strategy Development Discussion and Ideas ***
+1. QuantStart - thorough yet bitesize insights into various stages and challenges for the quant strategy development process covering the entire workflow from end to end.  Plenty of free articles, guidance and advice available without signing up - including worked through examples of code and a variety of function modules. 
+https://www.quantstart.com/
