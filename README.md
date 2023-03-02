@@ -22,6 +22,9 @@ Free PDF - Lovely little overview, easy to follow, 40-50 pages of reading - prov
 https://www.cfainstitute.org/-/media/documents/book/rf-lit-review/2020/rflr-artificial-intelligence-in-asset-management.ashx
 
 
+2. Openai gym Useful 4 page free PDF.  This is a easy read for anyone wanting to get started on incorporating reinforcement learning using openaigym into their workflow."OpenAI Gym is a toolkit for reinforcement learning research."  Quick and easy read - but conveys the key points well. 
+https://arxiv.org/pdf/1606.01540.pdf
+
 
 *** WOMEN IN QUANT FINANCE INSPO AND INFO ***
 1. Quant Fund Manager Legend, Leda Braga, speaking at WiDs conference 2019 - explaining her work and industry in a fun to watch and inspiring 30min video
