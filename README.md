@@ -35,3 +35,10 @@ https://www.youtube.com/watch?v=9WDO8sqiy_Y
 **** SECTION 4 - Quant Strategy Development Discussion and Ideas ***
 1. QuantStart - thorough yet bitesize insights into various stages and challenges for the quant strategy development process covering the entire workflow from end to end.  Plenty of free articles, guidance and advice available without signing up - including worked through examples of code and a variety of function modules. 
 https://www.quantstart.com/
+
+2.Quantpedia
+
+3.Quantconnect
+
+
+
