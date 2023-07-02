@@ -45,5 +45,6 @@ https://www.quantstart.com/
 **** SECTION 5 - Management and Productivity ***
 
 **** SECTION 6 - 360 Mentoring  ***
-
+1. Kaggle BiPoc
+2. WIDS mentor programme
 
