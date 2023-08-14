@@ -1,4 +1,4 @@
-# Useful-Resources
+# Useful-Resources for Quant Researchers
 Reading, Articles, Research Papers, Events, Books, Opinions that are useful
 
 
