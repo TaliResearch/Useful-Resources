@@ -1,5 +1,4 @@
-# Useful-Resources for Quant Researchers and Systematic Investors
-Reading, Articles, Research Papers, Events, Books, Opinions that are useful
+
 
 
 *** SECTION 1 Python Resources  ****
