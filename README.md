@@ -7,11 +7,6 @@ https://www.sea-stat.com/wp-content/uploads/2021/05/Yves-Hilpisch-Python-for-Fin
 
 
 
-***SECTION 2 Economics ***
-Easy to digest animation from investing legend Ray Dalio - explanation of how the economics of the world work - macro economics 
-"How the Economic Machine Works" (30min @1 x speed)
-https://www.youtube.com/watch?v=PHe0bXAIuk0
-
 
 ***SECTION 3 - Understanding AI ****
 1. ARTIFICIAL INTELLIGENCE IN ASSET MANAGEMENT, SÖHNKE M. BARTRAM, JÜRGEN BRANKE, AND MEHRSHAD MOTAHARI
