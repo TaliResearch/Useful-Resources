@@ -47,6 +47,4 @@ https://www.quantstart.com/
 
 **** SECTION 7 - Quantum Computing and its role in the Finance and Investments Industry********
 1. IBM Report 2023 - Exploring quantum computing use cases for financial services
-https://lnkd.in/egwd5cY7
-
-***
+   https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/exploring-quantum-financial
